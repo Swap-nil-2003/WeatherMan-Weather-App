@@ -1,7 +1,7 @@
 // let a= alert("Weather app");
 // console,log(a);
 let weather={
-    "apikey": "d9f863441ad831894a84810bf74568e2",
+    "apikey": "XXXXXXXXXXX74568e2",
     fetchWeather: function(city) {
         fetch("https://api.openweathermap.org/data/2.5/weather?q="+ 
         city+"&units=metric&appid="
